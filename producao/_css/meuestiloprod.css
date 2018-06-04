@@ -1,0 +1,28 @@
+
+#header {
+    background-color:#9999ff;
+    color:white;
+    text-align:center;
+    padding:5px;
+	border-radius: 15px 15px 5px 5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:680px;
+    width:150px;
+    float:left;
+    padding:5px; 
+	border-radius: 0px 0px 5px 5px;
+}
+#section {
+	position: relative;
+    width:85%;
+    float:left;
+    padding:10px; 
+}
+#footer {
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
